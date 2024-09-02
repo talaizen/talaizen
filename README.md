@@ -1,7 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*IRGB-4OAoO8KSqH_huDPFw.gif)
 <h1 align="center">Hi 👋, I'm Tal Aizenkraft</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_UCAsf43-6w3Buf5BaT46lOmdrvIOOg1Igs4lAugh5iiXgQrOu9yIYH1BycX5eUkdj1Q&usqp=CAU">
 
 
 - 🔭 I’m currently working at **Tufin**
