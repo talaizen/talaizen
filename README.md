@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 
-- 🔭 I’m currently working at **Tufin**
+- 🔭 I’m working at **Tufin**
 
 - 📫 How to reach me **talkraft@gmail.com**
   
