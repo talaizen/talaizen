@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tal Aizenkraft</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">software developer</h3>
 
 
 - 🔭 I’m working at **Tufin**
