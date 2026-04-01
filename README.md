@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tal Aizenkraft</h1>
 <h3 align="center">software developer</h3>
 
-
-- 🔭 I’m working at **Tufin**
-
 - 📫 How to reach me **talkraft@gmail.com**
   
 
